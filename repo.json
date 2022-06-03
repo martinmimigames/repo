@@ -2,7 +2,7 @@
   "name": "server alpha",
   "maintainer": "martinmimigames",
   "release_type": {
-    "stable": "https://martinmimigames.github.io/repo/stable/list.json"
+    "stable": "stable/list.json"
   },
   "description": "the first official repo server of martinmimigames",
   "type": "repo",

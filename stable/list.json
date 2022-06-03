@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "simple music player",
+      "url": "simple-music-player/release.json"
+    }
+  ],
+  "type": "package list",
+  "version": "1"
+}
