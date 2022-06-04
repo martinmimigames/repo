@@ -2,8 +2,8 @@
   "packages": [
     
     {
-      "name": "simple music player",
-      "url": "simple-music-player/releases.json"
+      "name": "test",
+      "url": "test/releases.json"
     },
     {
       "name": "simple music player",
