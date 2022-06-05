@@ -1,0 +1,11 @@
+{
+  "downloads":[
+    {
+      "platform": "*",
+      "arch": "*",
+      "file": "test[platform][arch].txt"
+    }
+  ],
+  "type": "downloads",
+  "version": "1"
+}
