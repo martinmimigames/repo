@@ -3,13 +3,13 @@
   {
     "number": "1",
     "code_name": "1",
-    "url": "1"
+    "url": "1/release.json"
   },
   "releases": [
     {
       "number": "1",
       "code_name": "1",
-      "url": "1"
+      "url": "1/release.json"
     }
   ],
   "type": "releases",
